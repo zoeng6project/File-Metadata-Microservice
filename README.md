@@ -1,4 +1,4 @@
-https://3000-freecodecam-boilerplate-8y6wwdkkh7v.ws-us108.gitpod.io/
+https://freecodecam-boilerplate-8y6wwdkkh7v.ws-us108.gitpod.io
 
 
 # File Metadata Microservice
